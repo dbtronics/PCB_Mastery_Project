@@ -1,0 +1,29 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "60038505-fe48-4b27-ae0f-5f0e23a92218")
+	(paper "A4")
+	(title_block
+		(title "MCU")
+		(date "2025-04-06")
+		(rev "rev0")
+		(company "DBtronics Inc.")
+		(comment 1 "Dian Basit")
+		(comment 2 "dianbasit@dbtronics.org")
+		(comment 3 "+1 (587) 432-2486")
+	)
+	(lib_symbols)
+	(text "${TITLE}\n"
+		(exclude_from_sim no)
+		(at 135.636 24.13 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "7e4ab3e6-4c53-4802-8797-53c81146a9ed")
+	)
+)

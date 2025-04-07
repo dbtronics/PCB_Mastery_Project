@@ -1,0 +1,29 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e5a3679d-eb90-460b-bccd-d838944e82df")
+	(paper "A4")
+	(title_block
+		(title "MOSFETs")
+		(date "2025-04-06")
+		(rev "rev0")
+		(company "DBtronics Inc.")
+		(comment 1 "Dian Basit")
+		(comment 2 "dianbasit@dbtronics.org")
+		(comment 3 "+1 (587) 432-2486")
+	)
+	(lib_symbols)
+	(text "${TITLE}\n"
+		(exclude_from_sim no)
+		(at 136.398 24.638 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "aa731e31-b2e4-44f4-8387-6b991bd2cfc2")
+	)
+)

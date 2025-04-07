@@ -470,7 +470,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Example Project.kicad_pro",
+    "filename": "ESC_Project.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -651,6 +651,34 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       "Root"
+    ],
+    [
+      "7aad39d6-ebaf-4e22-b969-86b794d01694",
+      "Overview"
+    ],
+    [
+      "05b084b7-3def-43cd-97d6-7fb21b5dee22",
+      "Block Diagram"
+    ],
+    [
+      "6bf71143-8fa6-41a2-b637-a55cc8c436ec",
+      "MCU"
+    ],
+    [
+      "fa3d6edb-5fe5-4186-935a-5a2963310f7e",
+      "MOSFET DRIVER"
+    ],
+    [
+      "9c552063-0c99-4c46-af48-dc68a28e99d8",
+      "MOSFETs"
+    ],
+    [
+      "4045f066-460b-4bba-9648-81c2e772be2f",
+      "CAN"
+    ],
+    [
+      "fceeac1e-bcf4-4558-a873-574c6df618ae",
+      "FILTERS"
     ]
   ],
   "text_variables": {}

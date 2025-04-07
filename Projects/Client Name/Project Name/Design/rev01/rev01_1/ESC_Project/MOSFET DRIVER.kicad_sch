@@ -1,0 +1,29 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d1d3ed85-af35-4485-b1b5-e01c577c8654")
+	(paper "A4")
+	(title_block
+		(title "MOSFET DRIVER")
+		(date "2025-04-06")
+		(rev "rev0")
+		(company "DBtronics Inc.")
+		(comment 1 "Dian Basit")
+		(comment 2 "dianbasit@dbtronics.org")
+		(comment 3 "+1 (587) 432-2486")
+	)
+	(lib_symbols)
+	(text "${TITLE}\n"
+		(exclude_from_sim no)
+		(at 136.398 24.13 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "eb36207c-1905-420e-8bd3-f0cc738a3fa5")
+	)
+)
